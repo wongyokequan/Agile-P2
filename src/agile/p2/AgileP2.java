@@ -16,6 +16,7 @@ public class AgileP2 {
      */
     public static void main(String[] args) {
         System.out.println("HEllo");
+        System.out.println("HEHEXD");       
         // TODO code application logic here
     }
     
